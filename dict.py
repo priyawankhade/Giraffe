@@ -1,6 +1,5 @@
 name = "John"
 age = 45
-#print("There once lived a man named " + name + ",")
 
 
 #print("He really liked the name " + name)
