@@ -1,7 +1,7 @@
 name = "John"
 age = 45
 #print("There once lived a man named " + name + ",")
-#print("He was " + str(age) + " years old.")
+
 
 #print("He really liked the name " + name)
 #print("but didn't like being " + str(age) + ".")
